@@ -4,6 +4,8 @@ Traditional media control methods rely on physical buttons, keyboards, or touchs
 # Proof Of Work -
 Original Document - [GestureBasedMediaControlSystem.pdf](https://github.com/user-attachments/files/21050491/final.book.pdf)
 
+Presentation PPTX - [Presentation.pptx](https://github.com/user-attachments/files/21050732/DOC-20250416-WA0003.pptx)
+
 Confrence Paper - [Conference_Paper.pdf](https://github.com/user-attachments/files/21050541/Conference_Paper.pdf)
 
 # Conference Certificate -
