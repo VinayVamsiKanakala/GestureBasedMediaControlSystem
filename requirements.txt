@@ -1,0 +1,7 @@
+joblib==1.5.0
+mediapipe
+numpy==1.24.0
+opencv-python==4.5.5.62
+pandas==1.5.3
+pyautogui
+scikit-learn==1.1.3
